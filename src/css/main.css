@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "Raleway";
+    src: url('../fonts/Raleway-Light.woff') format('woff'),
+        url('../fonts/Raleway-Light.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Raleway";
+    src: url('../fonts/Raleway-Regular.woff') format('woff'),
+        url('../fonts/Raleway-Regular.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+.raleway-font-400 {
+    font-family: Raleway;
+    font-weight: 400;
+}
+
+.raleway-font-500 {
+    font-family: Raleway;
+    font-weight: 500;
+}
+
+.bg-green {
+    background-color:  #10B582;
+}
+
+.bg-orange {
+    background-color: #FA9F42;
+}
+
+.color-green {
+    color: #10B582;
+}
+
+.color-white {
+    color: #FDFDFD;
+}
+
+.header_link:hover {
+    border-bottom: 2px dashed;
+    border-bottom-color:  #FA9F42;
+    color: #FDFDFD;
+    
+}
+
+.icon-size {
+    width: 22px;
+}
+
+.primary_image{
+    max-width: 270px;
+}
+
+.fs-58px {
+    font-size: 58px;
+}
+
+.btn-yellow {
+    width: 230px;
+    height: 56px;
+    color: #FDFDFD;
+    background-color: #FA9F42;
+    border-radius: 0px 20px;
+}
