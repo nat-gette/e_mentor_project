@@ -69,3 +69,33 @@
     background-color: #FA9F42;
     border-radius: 0px 20px;
 }
+
+.btn-yellow:hover {
+    color: #FDFDFD;
+    background-color: #da822a;
+
+}
+
+.btn-green {
+    width: 230px;
+    height: 56px;
+    color: #FDFDFD;
+    background-color: #10B582;
+    border-radius: 0px 20px;
+}
+
+.logo {
+    max-width: 170px;
+}
+
+/* .skroll-text {
+
+} */
+.skroll-link {
+    transform: rotate(-90deg);
+
+}
+
+.skroll-icon{
+    transform: rotate(90deg);
+}
