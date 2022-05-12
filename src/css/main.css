@@ -16,6 +16,9 @@
     font-display: swap;
 }
 
+.container-primary {
+    position: relative;
+}
 
 .raleway-font-400 {
     font-family: Raleway;
@@ -29,6 +32,10 @@
 
 .bg-green {
     background-color:  #10B582;
+}
+
+.bg-white {
+    background-color: #FDFDFD;
 }
 
 .bg-orange {
@@ -92,10 +99,10 @@
     max-width: 170px;
 }
 
-/* .skroll-text {
+.skroll-text {
     position: relative;
-    top: 50px;
-    right: -6px;
+    /* top: 50px;
+    right: -6px; */
     transform: rotate(-90deg);
     transform-origin: 100% 100%;
 }
@@ -121,7 +128,7 @@
 .skroll-icon{
     width: 10px;
     height: 18px;
-} */
+}
 
 
 
